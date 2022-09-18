@@ -1,2 +1,0 @@
-My name is Nadia.
-I am learning to create git to github pipeline.
